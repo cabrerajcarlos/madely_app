@@ -59,7 +59,6 @@ group :test do
   gem 'mini_backtrace', '~> 0.1.3'
   gem 'guard', '~> 2.13.0' # NOTE: this is necessary in newer versions
   gem 'guard-minitest', '~> 2.4.4'
-  gem 'wdm', '~> 0.1.1'
 end
 
 group :production do
