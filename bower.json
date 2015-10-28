@@ -1,0 +1,26 @@
+{
+  "name": "madely_app",
+  "homepage": "https://madely-app.herokuapp.com/",
+  "authors": [
+    "Juan Carlos Cabrera <cabrera01@gmail.com>"
+  ],
+  "description": "different kind of application inside, like cheques, etc...",
+  "main": "home.html.erb",
+  "moduleType": [],
+  "keywords": [
+    "/"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5"
+  }
+}
